@@ -1,4 +1,3 @@
-
 <?php snippet('header') ?>
 
 	
@@ -7,14 +6,9 @@
 
     	<div class="container">
 
-    		<div class="jumbotron">
-
       		<h1><?php echo $page->title()->html() ?></h1>
-      		<?php echo $page->text()->kirbytext() ?>
-
-    		</div>
-
-
+      		<?php echo $page->text()->html() ?>
+    
     	</div> <!-- /container -->
 
 
