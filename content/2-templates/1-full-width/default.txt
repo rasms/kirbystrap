@@ -1,0 +1,5 @@
+Title: Full Width (default)
+
+----
+
+Text: Bodytext
