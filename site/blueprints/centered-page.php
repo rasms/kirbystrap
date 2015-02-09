@@ -1,6 +1,6 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: HTML
+title: Centered-Page
 pages: true
 files: true
 fields:

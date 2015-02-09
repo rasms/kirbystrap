@@ -1,0 +1,9 @@
+Title: Right Sidebar
+
+----
+
+Text: Bodytext
+
+----
+
+Sidebar: Sidebar Content

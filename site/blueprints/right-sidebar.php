@@ -1,6 +1,6 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: HTML
+title: Right-Sidebar
 pages: true
 files: true
 fields:
@@ -10,3 +10,6 @@ fields:
   text:
     label: Text
     type:  textarea
+  sidebar: 
+    label: Sidebar
+    type: textarea
