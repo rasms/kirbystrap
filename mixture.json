@@ -24,9 +24,8 @@
   "templateDirectory": "templates",
   "type": "simple",
   "useCompass": false,
-  
   "less": {
   "sourceMap": false,
   "lineNumbers": false
-}
+  }
 }
