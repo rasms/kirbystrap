@@ -1,15 +1,18 @@
-Title: Home
+Title: kirbystrap
 
 ----
 
-Text: Yay! If you are seeing this, the installation of Kirby worked. :)
+Text: 
 
-## Get started
+##Attention
 
-- Go to the (link: panel text: panel) to give Kirby's admin interface a try
-- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
-- Follow (twitter: @getkirby) on Twitter for updates
-- Visit the (link: http://getkirby.com/forum text: forum) to connect with other Kirby users
-- (link: http://getkirby.com/support text: Get in contact) if you need support.
+Kirby is not free for use! If you want to use kirby for your project, (link: http://getkirby.com/buy text: buy) a license.
 
-**Have fun with Kirby!**
+----
+
+Jumbo: 
+
+A simple starter theme for (link: http://getkirby.com/ text: Kirby).
+Based on (link: http://getbootstrap.com/ text: Bootstrap), contains (link: http://fontawesome.io/ text: Font Awesome).
+
+<a href="https://github.com/rleissner/kirbystrap" class="btn btn-lg btn-info"><i class="fa fa-github"></i> visit kirbystrap on github</a>

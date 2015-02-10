@@ -1,0 +1,10 @@
+Title: Templates
+
+----
+
+Text: 
+
+Bodytext
+(link: /templates/left-sidebar)
+(link: /templates/right-sidebar)
+(link: /templates/centered-page)

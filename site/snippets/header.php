@@ -10,8 +10,6 @@
 
     <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
 
-    <!-- Bootstrap core CSS -->
-    <?php echo css('assets/css/bootstrap.min.css') ?>
     <?php echo css('assets/css/style.css') ?>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
